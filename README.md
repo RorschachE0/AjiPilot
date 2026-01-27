@@ -1,5 +1,7 @@
 # ✈️ AjiPilot (Ajiasu Web Controller)
 
+<img width="1256" height="897" alt="046981dc3fcf1587d5b164c9283a694f" src="https://github.com/user-attachments/assets/b63440a6-eac9-4557-a0ba-993ee98fdede" />
+
 > 一个极致精简、具备“自愈能力”的 Ajiasu 命令行 Web 控制面板。
 
 **AjiPilot** 是一个单文件 Python 脚本，旨在为 `ajiasu` 命令行工具提供一个现代化的 Web 界面。它不仅仅是一个 UI，更是一个**进程守护者**，解决了长时间运行下的僵尸进程、连接残留和协议管理问题。
