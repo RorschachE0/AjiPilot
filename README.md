@@ -1,4 +1,4 @@
-# ✈️ AjiPilot (Ajiasu Web Controller)
+# ✈️ AjiPilot 爱加速面板 (Ajiasu Web Controller)
 
 <img width="1256" height="897" alt="046981dc3fcf1587d5b164c9283a694f" src="https://github.com/user-attachments/assets/b63440a6-eac9-4557-a0ba-993ee98fdede" />
 
@@ -33,7 +33,7 @@
 pip3 install flask
 
 # 赋予脚本执行权限
-chmod +x ajiasu_web_lwip.py
+chmod +x ajiasu_web_lwip2.py
 
 # 启动 (默认端口 8000)
-python3 ajiasu_web_lwip.py
+python3 ajiasu_web_lwip2.py
